@@ -1,2 +1,4 @@
 # OSU-HW-ONE
-Home work one for OSU Coding bootcamp 
+Homework one for OSU Coding bootcamp
+
+# This is an <h1> tag
