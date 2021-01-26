@@ -13,11 +13,23 @@ In this project we refactored the code to be more accessible.
 5. All elements in the head are in there sequential order.
 
 ## Screenshots
-![GitHub Logo](/assets/images/screenshot-one.jpg)
+![screenshot one](/assets/images/screenshot-one.jpg)
 ##### header with hero img
 
-![GitHub Logo](/assets/images/screenshot-two.jpg)
+![screenshot two](/assets/images/screenshot-two.jpg)
 ##### sections including benefits, search optimization, etc...
 
-![GitHub Logo](/assets/images/screenshot-three.jpg)
+![screenshot three](/assets/images/screenshot-three.jpg)
 ##### Image of html showcasing improved readability
+
+
+## Installation
+Clone the repository at https://github.com/kekons4/OSU-HW-ONE.git add load it on
+code editor of your choice. Vscode is the prefered editor.
+
+## Credits
+Keon Pourboghrat https://github.com/kekons4
+
+## License
+No license on this project.
+![test](https://img.shields.io/apm/l/test)
