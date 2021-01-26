@@ -1,3 +1,5 @@
+/*--------------- all elements in the DOM all possess the same box-sizing, margin,
+and padding  ------------------------*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -28,6 +30,7 @@ header h1 span {
 header nav {
     padding-top: 15px;
     margin-right: 20px;
+    /*-------------  all elements in the header nav are positioned to the right  ---------*/
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
