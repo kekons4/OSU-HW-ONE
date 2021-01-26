@@ -13,4 +13,5 @@ In this project we refactored the code to be more accessible.
 5. All elements in the head are in there sequential order.
 
 ![GitHub Logo](/assets/images/screenshot-one.jpg)
-Format: ![Alt Text](url)
+
+![GitHub Logo](/assets/images/screenshot-two.jpg)
