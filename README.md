@@ -12,6 +12,9 @@ In this project we refactored the code to be more accessible.
 4. All styling tags are done in a separate .css file.
 5. All elements in the head are in there sequential order.
 
+## Screenshots
 ![GitHub Logo](/assets/images/screenshot-one.jpg)
+###### header with hero img
 
 ![GitHub Logo](/assets/images/screenshot-two.jpg)
+###### sections including benefits, search optimization, etc...
