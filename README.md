@@ -14,7 +14,10 @@ In this project we refactored the code to be more accessible.
 
 ## Screenshots
 ![GitHub Logo](/assets/images/screenshot-one.jpg)
-###### header with hero img
+##### header with hero img
 
 ![GitHub Logo](/assets/images/screenshot-two.jpg)
-###### sections including benefits, search optimization, etc...
+##### sections including benefits, search optimization, etc...
+
+![GitHub Logo](/assets/images/screenshot-three.jpg)
+##### Image of html showcasing improved readability
