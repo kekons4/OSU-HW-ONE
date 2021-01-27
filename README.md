@@ -3,6 +3,7 @@ Homework one for OSU Coding bootcamp
 
 ## Desciption
 In this project we refactored the code to be more accessible.
+You can check the live site on this link: https://kekons4.github.io/OSU-HW-ONE/
 
 ### Steps on Improving Accessiblity
 1. Changed div tags into semactic tags.
